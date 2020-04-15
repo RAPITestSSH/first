@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="3a55a5a8-ef0a-4323-ad20-89bd5c227c77" wadlVersion="http://wadl.dev.java.net/2009/02" name="ya.ru" type="rest" xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <con:settings>
+    <con:setting id="3a55a5a8-ef0a-4323-ad20-89bd5c227c77fileName">ya.ru</con:setting>
+  </con:settings>
+  <con:definitionCache type="TEXT" rootPart=""/>
+  <con:endpoints>
+    <con:endpoint>http://ya.ru</con:endpoint>
+  </con:endpoints>
+</con:interface>

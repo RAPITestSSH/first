@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:resource name="" path="" id="37765b48-5578-45d7-9089-83a6b849ca27" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="37765b48-5578-45d7-9089-83a6b849ca27fileName"/>
+  </con:settings>
+  <con:parameters/>
+  <con:method name="" id="3ab5509b-9f6d-4180-9ec3-1cf5ccce5fab" method="GET">
+    <con:settings/>
+    <con:parameters/>
+    <con:request name="Request 1" id="92db5126-2111-44a3-b69d-93d0e0758acd" mediaType="application/json">
+      <con:settings/>
+      <con:endpoint>http://ya.ru</con:endpoint>
+      <con:request/>
+      <con:credentials>
+        <con:authType>No Authorization</con:authType>
+      </con:credentials>
+      <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
+      <con:parameters/>
+    </con:request>
+  </con:method>
+</con:resource>
